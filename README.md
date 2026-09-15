@@ -16,9 +16,6 @@ Proof of concept for a Philadelphia parking app that helps users locate and repo
 2. Open `index.html` in a web browser.
 3. The Philadelphia map will appear.
 
-## Operating System
-
-macOS
 
 ## Programming Language
 
